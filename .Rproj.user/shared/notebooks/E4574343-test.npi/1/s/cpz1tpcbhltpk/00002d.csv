@@ -1,0 +1,1 @@
+"0","curve(beta_density(x,rt(1000,df = 5)),-3,3,xlab = ""t(5)"",ylab="""",add = TRUE,col = ""red"")"

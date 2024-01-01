@@ -1,0 +1,1 @@
+"0","curve(beta_density(x,rweibull(1000,5)),0,10,xlab = ""Wei(5)"",ylab="""",add = TRUE,col = ""red"")"

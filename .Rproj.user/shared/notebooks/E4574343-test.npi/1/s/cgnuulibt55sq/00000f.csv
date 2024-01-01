@@ -1,0 +1,8 @@
+"0","par(mfrow = c(3,3))"
+"0","for (i in seq(.2,1,length.out=9))"
+"0","{"
+"0","  curve(ash_density_(x,vec,h=i),-3,3,xlab = paste(""h = "",i),ylab="""")"
+"0","  #curve(ash_density_int(x,vec,h=i),-3,3,xlab = paste(""h = "",i),ylab="""",col = ""red"",add = TRUE)"
+"0","  mtext(""h is changing (Normal)"",side=3,outer=TRUE,padj=3)"
+"0","}"
+"0",""

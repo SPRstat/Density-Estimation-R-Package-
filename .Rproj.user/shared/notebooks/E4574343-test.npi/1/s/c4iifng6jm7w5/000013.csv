@@ -1,0 +1,2 @@
+"0","par(mfrow = c(3,3))"
+"0","for (i in seq(-.5,.5,length.out=9)) curve(histogram_density(x,vec,x0=i,h = 1),-3,3,xlab = paste(""x0 = "",i),ylab="""")"

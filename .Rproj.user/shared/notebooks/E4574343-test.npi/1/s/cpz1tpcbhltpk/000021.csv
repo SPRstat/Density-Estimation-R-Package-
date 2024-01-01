@@ -1,0 +1,1 @@
+"0","curve(beta_density(x,rlogis(1000)),-10,10,xlab = ""S.Logis"",ylab="""",add = TRUE,col = ""red"")"

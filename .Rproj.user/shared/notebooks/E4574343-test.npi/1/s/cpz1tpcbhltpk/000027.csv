@@ -1,0 +1,2 @@
+"0",""
+"0","curve(dweibull(x,5),0,10,xlab = ""Wei(5)"",type = ""l"",col = ""blue"")"

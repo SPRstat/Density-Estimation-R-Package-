@@ -1,0 +1,2 @@
+"0",""
+"0","curve(dchisq(x,df = 5),0,30,xlab = ""Chi(5)"",type = ""l"",col = ""blue"")"

@@ -1,0 +1,2 @@
+"0",""
+"0","curve(dcauchy(x),-30,30,xlab = ""C(0,1)"",type = ""l"",col = ""blue"")"

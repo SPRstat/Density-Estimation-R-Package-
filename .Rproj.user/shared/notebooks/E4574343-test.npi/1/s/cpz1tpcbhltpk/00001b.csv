@@ -1,0 +1,2 @@
+"0",""
+"0","curve(dexp(x),0,5,xlab = ""Exp(1)"",type = ""l"",col = ""blue"")"

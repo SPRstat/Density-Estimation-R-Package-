@@ -1,0 +1,5 @@
+Package: densest
+Type: Package
+Title: Density Estimation
+Version: 0.0.1.0
+RoxygenNote: 7.2.3

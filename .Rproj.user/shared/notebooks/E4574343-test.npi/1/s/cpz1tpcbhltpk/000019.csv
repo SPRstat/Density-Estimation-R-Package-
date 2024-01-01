@@ -1,0 +1,1 @@
+"0","curve(beta_density(x,rchisq(1000,df = 5)),0,30,xlab = ""Chi(5)"",ylab="""",add = TRUE,col = ""red"")"

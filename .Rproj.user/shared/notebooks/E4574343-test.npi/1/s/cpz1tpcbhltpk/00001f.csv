@@ -1,0 +1,2 @@
+"0",""
+"0","curve(dlogis(x),-10,10,xlab = ""S.Logis"",type = ""l"",col = ""blue"")"
