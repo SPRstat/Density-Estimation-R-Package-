@@ -1,1 +1,2 @@
 # Density-Estimation-R-Package-
+This package is created jointly with my friend Mainak Manna. This is a result of our project on density estimation as a part our coursework on Nonparametric Inference. This package consists of 19 functions as of now. It is live and currently uploaded on my GitHub account. I shall first discuss how to install and use our package and then show some examples. I encourage others to use it and let us know of any mistakes or problems which they face.
